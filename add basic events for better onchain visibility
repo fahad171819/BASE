@@ -1,0 +1,4 @@
+added a couple of events to track key interactions.
+makes it easier to follow activity on basescan and debug transactions.
+
+should help later if we plug into any indexing tools.
