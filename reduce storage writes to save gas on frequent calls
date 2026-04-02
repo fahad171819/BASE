@@ -1,0 +1,4 @@
+optimized a few functions that were writing to storage more than needed.
+not a huge deal on base, but still worth keeping things efficient.
+
+gas usage looks slightly better now.
