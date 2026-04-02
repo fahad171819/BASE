@@ -1,0 +1,4 @@
+wired up base rpc and chain config locally, tested deploy flow from remix/metamask.
+first contract went through fine, just a simple storage contract to confirm everything works.
+
+will iterate from here.
