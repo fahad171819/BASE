@@ -1,0 +1,4 @@
+ran multiple transactions in sequence to make sure state stays consistent.
+everything looks stable so far on base mainnet.
+
+no issues observed.
