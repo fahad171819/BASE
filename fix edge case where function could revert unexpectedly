@@ -1,0 +1,4 @@
+caught a case where invalid input would break execution.
+added require checks to prevent that.
+
+nothing major, but safer now.
