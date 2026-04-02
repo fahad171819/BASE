@@ -1,0 +1,4 @@
+restricted a couple of functions to owner only.
+nothing fancy, just basic protection before adding more logic.
+
+will revisit if we expand permissions later.
