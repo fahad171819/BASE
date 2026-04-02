@@ -1,0 +1,4 @@
+noticed a few unnecessary variables and slightly messy structure after initial deploy.
+refactored for readability and removed unused parts.
+
+no logic changes, just cleanup.
